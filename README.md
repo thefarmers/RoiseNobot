@@ -2,7 +2,7 @@ RoiseNobot
 ==========
 Adviser : 
 
-        Pattarapong Phasukkrit  
+        Pattarapong Phasukkit  
 
 Student	:
 
