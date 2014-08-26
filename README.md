@@ -2,7 +2,7 @@ RoiseNobot
 ==========
 Adviser : 
 
-        Pattarapong Phasukkit  
+        Pattarapong Phasukkit  ( Burn Lab )
 
 Student	:
 
